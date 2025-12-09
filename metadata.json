@@ -1,0 +1,5 @@
+{
+  "name": "PrimeLock: 小小密码学家",
+  "description": "一个专为三年级学生设计的互动教学应用，通过趣味游戏展示质数在密码学中的神奇应用。C++老师的好帮手。",
+  "requestFramePermissions": []
+}
